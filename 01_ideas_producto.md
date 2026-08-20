@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Entrega 1 - Propuesta inicial de ideas de producto
 
 ## Idea 1 - Kefera
@@ -298,4 +298,4 @@ La herramienta podría ayudar a:
 * Ayudar a compradores y vendedores a tomar decisiones con más información.
 
 Desde el punto de vista del Máster, también permitiría aplicar diferentes técnicas de Data Science e Inteligencia Artificial, desde la preparación y visualización de los datos hasta la creación y comparación de modelos predictivos.
->>>>>>> 70e584acc8779be73143572f44d734bb9c1288c9
+
