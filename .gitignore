@@ -1,0 +1,16 @@
+﻿.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+target/
+build/
+.dart_tool/
+.gradle/
+.git/
+.idea/
+.vscode/
+__pycache__/
+*.pyc

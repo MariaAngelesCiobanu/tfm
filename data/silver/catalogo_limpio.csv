@@ -1,0 +1,156 @@
+﻿id_categoria,categoria,nombre,descripcion,precio,calorias,tiempo_preparacion
+3,Hamburguesas de los Faraones,Cleopatra,"Hamburguesa premium con vacuno, cheddar curado, bacon crujiente y salsa Kefera.",13.9,950,15
+3,Hamburguesas de los Faraones,Anubis,"Vacuno premium, queso azul, bacon y cebolla crispy.",14.9,1050,16
+3,Hamburguesas de los Faraones,Horus,"Doble vacuno, cheddar fundido y cebolla caramelizada.",15.9,1200,18
+3,Hamburguesas de los Faraones,Ra,"Vacuno premium, queso cheddar, huevo y salsa especial.",14.5,1100,16
+3,Hamburguesas de los Faraones,Osiris,"Vacuno premium, queso de cabra, rúcula y cebolla caramelizada.",15.5,1080,17
+3,Hamburguesas de los Faraones,Bastet,"Pollo crujiente, queso cheddar y salsa miel mostaza.",13.5,890,14
+3,Hamburguesas de los Faraones,Sobek,"Doble vacuno, bacon, cheddar y salsa BBQ.",16.5,1300,18
+3,Hamburguesas de los Faraones,Set,"Vacuno premium, jalapeños, queso pepper jack y salsa picante.",15.9,1150,17
+3,Hamburguesas de los Faraones,Faraón Supremo,"Doble Angus madurado, cheddar curado, bacon premium, huevo y salsa Kefera.",19.9,1450,20
+1,Tesoros para Compartir,Falafel de Isis,Crujientes bolas de garbanzo especiadas acompañadas de salsa yogur.,7.9,550,10
+1,Tesoros para Compartir,Hummus del Faraón,Hummus artesanal con aceite de oliva virgen extra y pan caliente.,6.9,480,8
+1,Tesoros para Compartir,Patatas Anubis,Patatas gajo crujientes con salsa Kefera y especias secretas.,6.5,620,12
+1,Tesoros para Compartir,Alitas del Nilo,Alitas marinadas con miel y especias orientales.,8.9,780,15
+1,Tesoros para Compartir,Croquetas de Cleopatra,Cremosas croquetas de jamón ibérico.,8.5,650,12
+1,Tesoros para Compartir,Nachos de Menfis,"Nachos gratinados con cheddar, guacamole y salsa especial.",9.9,980,15
+1,Tesoros para Compartir,Langostinos de Alejandría,Langostinos crujientes con salsa cítrica.,10.9,520,12
+1,Tesoros para Compartir,Tabla Imperial Kefera,"Selección premium para compartir con quesos, embutidos y panes.",15.9,1200,18
+2,Jardines del Nilo,Cleopatra,"Mezcla de lechugas, queso de cabra, nueces, tomate cherry y vinagreta de miel.",10.9,450,10
+2,Jardines del Nilo,Isis,"Rúcula, aguacate, mango, frutos secos y reducción balsámica.",11.5,420,10
+2,Jardines del Nilo,Bastet,"Pollo a la parrilla, lechuga romana, parmesano y salsa César.",11.9,550,12
+2,Jardines del Nilo,Oasis del Nilo,"Pepino, tomate, cebolla morada, queso feta y aceitunas negras.",9.9,380,8
+2,Jardines del Nilo,Jardín del Faraón,"Quinoa, espinacas, aguacate, zanahoria y semillas variadas.",12.5,480,10
+2,Jardines del Nilo,Horus,"Salmón ahumado, rúcula, mango y vinagreta cítrica.",13.9,520,12
+4,Hornos de Menfis,La Gran Pirámide,"Pizza clásica con tomate artesanal, mozzarella fresca y albahaca.",12.9,1150,15
+4,Hornos de Menfis,Esfinge Dorada,"Pizza de bacon ahumado, cheddar fundido y cebolla caramelizada.",13.9,1250,16
+4,Hornos de Menfis,Obelisco de Luxor,"Pizza de pollo marinado, mozzarella y salsa BBQ Kefera.",13.9,1320,16
+4,Hornos de Menfis,Valle de los Reyes,"Pizza premium con jamón ibérico, champiñones y mozzarella.",14.9,1280,16
+4,Hornos de Menfis,Biblioteca de Alejandría,"Pizza vegetariana con pimientos, aceitunas negras, cebolla morada y rúcula.",13.5,980,15
+4,Hornos de Menfis,Templo de Karnak,"Pizza picante con pepperoni, mozzarella y salsa especial de chile.",14.9,1300,16
+4,Hornos de Menfis,Ruta del Nilo,"Pizza de atún, cebolla roja y aceitunas negras.",13.9,1180,15
+4,Hornos de Menfis,Trono del Faraón,"Pizza gourmet con burrata, jamón ibérico, parmesano y aceite trufado.",17.9,1450,18
+6,Carnes del Desierto,Tutankamón,Solomillo de ternera premium acompañado de patatas gajo y verduras asadas.,21.9,1250,20
+6,Carnes del Desierto,Ramsés II,Entrecot madurado de 350g acompañado de patatas especiadas.,24.9,1450,22
+6,Carnes del Desierto,Akenatón,Pechuga de pollo marinada con especias orientales y arroz basmati.,16.9,980,18
+6,Carnes del Desierto,Amenhotep,Secreto ibérico a la brasa con verduras del desierto.,22.9,1320,20
+6,Carnes del Desierto,Keops,Costillar BBQ glaseado con miel egipcia y patatas rústicas.,23.9,1680,25
+6,Carnes del Desierto,Kefrén,Presa ibérica premium con salsa de reducción balsámica.,22.9,1380,22
+6,Carnes del Desierto,Micerino,Carrillera estofada lentamente con especias orientales.,20.9,1180,24
+6,Carnes del Desierto,Narmer,Parrillada imperial con selección de carnes premium para compartir.,29.9,2200,30
+7,Tesoros del Mar Rojo,Alejandría,Salmón a la plancha con verduras asadas y salsa cítrica.,19.9,950,18
+7,Tesoros del Mar Rojo,Luxor,Lubina al horno con especias orientales.,20.9,920,20
+7,Tesoros del Mar Rojo,Abidos,Bacalao confitado con crema suave de ajo.,18.9,890,18
+7,Tesoros del Mar Rojo,Asuán,Langostinos salteados con mantequilla y limón.,21.9,980,16
+7,Tesoros del Mar Rojo,Heliópolis,Pulpo a la brasa con patata cremosa.,24.9,1050,22
+7,Tesoros del Mar Rojo,Puerto Real,Parrillada de mariscos para compartir.,29.9,1700,25
+8,Dulces de la Reina,La Corona de Cleopatra,Tarta de queso cremosa con frutos rojos y coulis artesanal.,6.9,650,8
+8,Dulces de la Reina,La Máscara de Tutankamón,Coulant de chocolate negro con corazón fundido y helado de vainilla.,7.9,850,10
+8,Dulces de la Reina,El Ojo de Horus,Brownie de chocolate con nueces y salsa de caramelo.,6.5,720,8
+8,Dulces de la Reina,Escarabajo Dorado,Baklava tradicional con pistacho y miel egipcia.,5.9,580,5
+8,Dulces de la Reina,Tesoro del Nilo,"Copa de frutas frescas, yogur griego y miel.",5.5,420,4
+8,Dulces de la Reina,Pirámide de Caramelo,Torre de tortitas con caramelo salado y nata montada.,7.5,890,10
+8,Dulces de la Reina,Jardines de Hathor,"Helado artesanal de mango, coco y frutos tropicales.",5.9,480,3
+8,Dulces de la Reina,Trono Imperial,Degustación de mini postres para compartir.,12.9,1250,12
+10,Zumos del Nilo,Amanecer del Nilo,"Naranja, zanahoria y jengibre.",4.9,650,12
+10,Zumos del Nilo,Jardines de Isis,"Manzana verde, pepino y hierbabuena.",4.9,650,12
+10,Zumos del Nilo,Tesoro de Cleopatra,"Fresa, frambuesa y granada.",5.2,650,12
+10,Zumos del Nilo,Oasis Tropical,"Piña, mango y maracuyá.",4.9,650,12
+11,Batidos del Palacio,Batido de Cleopatra,"Fresa, vainilla y nata.",5.5,650,12
+11,Batidos del Palacio,Batido de Anubis,Chocolate negro y galleta.,5.5,650,12
+11,Batidos del Palacio,Batido del Faraón,Chocolate blanco y caramelo.,5.9,650,12
+11,Batidos del Palacio,Batido del Nilo,Mango y coco.,5.5,650,12
+12,Smoothies Sagrados,Oasis Verde,"Espinaca, kiwi, manzana y plátano.",5.5,650,12
+12,Smoothies Sagrados,Fuego de Ra,"Mango, piña y maracuyá.",5.5,650,12
+12,Smoothies Sagrados,Sueño de Hathor,"Arándanos, mora y yogur griego.",5.5,650,12
+12,Smoothies Sagrados,Jardín del Faraón,"Apio, pepino, manzana, limón y espinaca.",5.5,650,12
+13,Limonadas de Alejandría,Limonada Clásica,Limón natural recién exprimido.,4.5,650,12
+13,Limonadas de Alejandría,Limonada Hierbabuena,Limón e hierbabuena fresca.,4.9,650,12
+13,Limonadas de Alejandría,Limonada Frutos Rojos,Limón y frutos rojos.,5.2,650,12
+13,Limonadas de Alejandría,Limonada Tropical,"Limón, mango y piña.",5.2,650,12
+14,Cafés de Menfis,Espresso,Café espresso.,1.8,650,12
+14,Cafés de Menfis,Doble Espresso,Doble carga de café.,2.1,650,12
+14,Cafés de Menfis,Cortado,Espresso con leche.,1.9,650,12
+14,Cafés de Menfis,Americano,Café americano.,2.0,650,12
+14,Cafés de Menfis,Café con Leche,Café y leche.,2.2,650,12
+14,Cafés de Menfis,Cappuccino,Café con espuma cremosa.,2.5,650,12
+14,Cafés de Menfis,Latte Macchiato,Latte suave.,2.8,650,12
+14,Cafés de Menfis,Café del Faraón,"Canela, cardamomo y miel.",3.5,650,12
+14,Cafés de Menfis,Café Anubis,Chocolate negro y especias.,3.5,650,12
+15,Infusiones del Templo,Té Moruno,Té moruno tradicional.,2.3,650,12
+15,Infusiones del Templo,Té Verde,Té verde natural.,2.3,650,12
+15,Infusiones del Templo,Té Negro,Té negro intenso.,2.3,650,12
+15,Infusiones del Templo,Frutos Rojos,Infusión de frutos rojos.,2.3,650,12
+15,Infusiones del Templo,Manzanilla,Infusión de manzanilla.,2.3,650,12
+15,Infusiones del Templo,Menta Poleo,Infusión digestiva.,2.3,650,12
+15,Infusiones del Templo,Rooibos,Rooibos africano.,2.3,650,12
+15,Infusiones del Templo,Té de Isis,Especial Kefera.,2.8,650,12
+15,Infusiones del Templo,Té de Hathor,Especial Kefera.,2.8,650,12
+15,Infusiones del Templo,Té del Nilo,Especial Kefera.,2.8,650,12
+16,Cócteles de los Dioses,Isis,"Vodka premium, frutos rojos y vainilla.",9.5,650,12
+16,Cócteles de los Dioses,Ra,"Ron blanco, mango y maracuyá.",9.5,650,12
+16,Cócteles de los Dioses,Anubis,"Ron oscuro, café espresso y chocolate.",9.5,650,12
+16,Cócteles de los Dioses,Hathor,"Vodka, lichi y arándanos.",9.5,650,12
+16,Cócteles de los Dioses,Osiris,"Ginebra, pepino, albahaca y limón.",9.5,650,12
+16,Cócteles de los Dioses,Seth,"Tequila, chile y lima.",9.5,650,12
+17,Cervezas del Imperio,Cruzcampo,Cerveza nacional.,2.5,650,12
+17,Cervezas del Imperio,Mahou 5 Estrellas,Cerveza nacional.,2.6,650,12
+17,Cervezas del Imperio,Mahou Clásica,Cerveza nacional.,2.5,650,12
+17,Cervezas del Imperio,Alhambra Especial,Cerveza nacional.,3.2,650,12
+17,Cervezas del Imperio,Estrella Galicia,Cerveza nacional.,2.6,650,12
+17,Cervezas del Imperio,1906 Reserva Especial,Cerveza premium.,3.2,650,12
+17,Cervezas del Imperio,Heineken,Cerveza internacional.,2.9,650,12
+17,Cervezas del Imperio,Corona,Cerveza internacional.,2.9,650,12
+17,Cervezas del Imperio,Becks,Cerveza internacional.,2.9,650,12
+17,Cervezas del Imperio,Desperados,Cerveza internacional.,3.2,650,12
+18,Vinos de las Dinastías,Ramón Bilbao Crianza,Vino tinto.,18.0,650,12
+18,Vinos de las Dinastías,Marqués de Riscal Reserva,Vino tinto.,21.0,650,12
+18,Vinos de las Dinastías,Protos Roble,Vino tinto.,16.0,650,12
+18,Vinos de las Dinastías,Alma de Cántaro,Vino tinto.,14.0,650,12
+18,Vinos de las Dinastías,Verdejo Viña Esmeralda,Vino blanco.,16.0,650,12
+18,Vinos de las Dinastías,Marqués de Riscal Verdejo,Vino blanco.,15.0,650,12
+18,Vinos de las Dinastías,Albariño Pazo de San Mauro,Vino blanco.,18.0,650,12
+18,Vinos de las Dinastías,Protos Verdejo,Vino blanco.,16.0,650,12
+18,Vinos de las Dinastías,Lambrusco Rosado,Vino rosado.,14.0,650,12
+18,Vinos de las Dinastías,Mateus Rosé,Vino rosado.,13.0,650,12
+9,Refrescos del Oasis,Coca-Cola,Refresco.,2.5,650,12
+9,Refrescos del Oasis,Coca-Cola Zero,Refresco.,2.5,650,12
+9,Refrescos del Oasis,Fanta Naranja,Refresco.,2.5,650,12
+9,Refrescos del Oasis,Fanta Limón,Refresco.,2.5,650,12
+9,Refrescos del Oasis,Sprite,Refresco.,2.5,650,12
+9,Refrescos del Oasis,Nestea,Refresco.,2.5,650,12
+9,Refrescos del Oasis,Aquarius Limón,Refresco.,2.5,650,12
+9,Refrescos del Oasis,Aquarius Naranja,Refresco.,2.5,650,12
+9,Refrescos del Oasis,Kas Limón,Refresco.,2.5,650,12
+9,Refrescos del Oasis,Kas Naranja,Refresco.,2.5,650,12
+20,Chupitos de los Dioses,Isis,"Lichi, arándano y vodka.",3.0,650,12
+20,Chupitos de los Dioses,Anubis,"Café, chocolate y ron.",3.0,650,12
+20,Chupitos de los Dioses,Ra,"Mango, maracuyá y ron.",3.0,650,12
+20,Chupitos de los Dioses,Hathor,"Fresa, piña y vodka.",3.0,650,12
+20,Chupitos de los Dioses,Osiris,"Menta, lima y vodka.",3.0,650,12
+20,Chupitos de los Dioses,Sobek,Manzana verde y tequila.,3.0,650,12
+21,Shishas del Imperio,Menta,Shisha clásica de menta refrescante.,12.0,0,5
+21,Shishas del Imperio,Sandía,Shisha clásica de sandía dulce.,12.0,0,5
+21,Shishas del Imperio,Mora,Shisha clásica de mora intensa.,12.0,0,5
+21,Shishas del Imperio,Uva,Shisha clásica de uva dulce.,12.0,0,5
+21,Shishas del Imperio,Melocotón,Shisha clásica de melocotón.,12.0,0,5
+21,Shishas del Imperio,Manzana Doble,La mezcla tradicional más famosa.,12.0,0,5
+21,Shishas del Imperio,Limón Menta,Mezcla fresca y equilibrada.,12.0,0,5
+21,Shishas del Imperio,Love 66,"Maracuyá, sandía y melón.",14.0,0,5
+21,Shishas del Imperio,Blue Mist,Arándanos y menta.,14.0,0,5
+21,Shishas del Imperio,Lady Killer,"Mango, melón y menta.",14.0,0,5
+21,Shishas del Imperio,Gummy Bear,Inspirada en caramelos afrutados.,14.0,0,5
+21,Shishas del Imperio,Blackberry Mint,Mora negra y menta.,14.0,0,5
+21,Shishas del Imperio,Dubai Night,Frutas exóticas y especias suaves.,14.0,0,5
+21,Shishas del Imperio,Ice Lime,Lima con efecto hielo.,14.0,0,5
+21,Shishas del Imperio,Valle Oculto,"Love 66, maracuyá y menta helada.",15.9,0,5
+21,Shishas del Imperio,Pirámide Negra,"Uva, mora y regaliz.",15.9,0,5
+21,Shishas del Imperio,Oasis Perdido,"Melón, sandía y hierbabuena.",15.9,0,5
+21,Shishas del Imperio,Santuario de Amón,"Cítricos, menta y frutas rojas.",15.9,0,5
+21,Shishas del Imperio,Alejandría Nocturna,"Arándanos, mora y hielo.",15.9,0,5
+21,Shishas del Imperio,Guardiana del Desierto,"Melocotón, vainilla y mango.",15.9,0,5
+21,Shishas del Imperio,Cámara de Keops,Blue Mist y cítricos.,15.9,0,5
+21,Shishas del Imperio,Desierto Eterno,"Kiwi, lima y menta helada.",15.9,0,5
+21,Shishas del Imperio,Kefera Royal,Selección premium exclusiva de la casa.,19.9,0,5
+21,Shishas del Imperio,Trono de Cleopatra,Mezcla gourmet de frutas exóticas.,18.9,0,5
+21,Shishas del Imperio,Tesoro de Tutankamón,Combinación secreta premium.,18.9,0,5

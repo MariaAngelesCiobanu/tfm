@@ -1,0 +1,9 @@
+{
+  "n_productos": 155,
+  "n_train": 124,
+  "n_test": 31,
+  "baseline_silhouette": 0.295,
+  "kmeans_silhouette": 0.697,
+  "kmeans_k": 3,
+  "random_state": 42
+}

@@ -1,0 +1,156 @@
+﻿producto_id,nombre,categoria,precio,calorias,tiempo_preparacion
+1,Cleopatra,Hamburguesas de los Faraones,13.9,950,15
+2,Anubis,Hamburguesas de los Faraones,14.9,1050,16
+3,Horus,Hamburguesas de los Faraones,15.9,1200,18
+4,Ra,Hamburguesas de los Faraones,14.5,1100,16
+5,Osiris,Hamburguesas de los Faraones,15.5,1080,17
+6,Bastet,Hamburguesas de los Faraones,13.5,890,14
+7,Sobek,Hamburguesas de los Faraones,16.5,1300,18
+8,Set,Hamburguesas de los Faraones,15.9,1150,17
+9,Faraón Supremo,Hamburguesas de los Faraones,19.9,1450,20
+10,Falafel de Isis,Tesoros para Compartir,7.9,550,10
+11,Hummus del Faraón,Tesoros para Compartir,6.9,480,8
+12,Patatas Anubis,Tesoros para Compartir,6.5,620,12
+13,Alitas del Nilo,Tesoros para Compartir,8.9,780,15
+14,Croquetas de Cleopatra,Tesoros para Compartir,8.5,650,12
+15,Nachos de Menfis,Tesoros para Compartir,9.9,980,15
+16,Langostinos de Alejandría,Tesoros para Compartir,10.9,520,12
+17,Tabla Imperial Kefera,Tesoros para Compartir,15.9,1200,18
+18,Cleopatra,Jardines del Nilo,10.9,450,10
+19,Isis,Jardines del Nilo,11.5,420,10
+20,Bastet,Jardines del Nilo,11.9,550,12
+21,Oasis del Nilo,Jardines del Nilo,9.9,380,8
+22,Jardín del Faraón,Jardines del Nilo,12.5,480,10
+23,Horus,Jardines del Nilo,13.9,520,12
+24,La Gran Pirámide,Hornos de Menfis,12.9,1150,15
+25,Esfinge Dorada,Hornos de Menfis,13.9,1250,16
+26,Obelisco de Luxor,Hornos de Menfis,13.9,1320,16
+27,Valle de los Reyes,Hornos de Menfis,14.9,1280,16
+28,Biblioteca de Alejandría,Hornos de Menfis,13.5,980,15
+29,Templo de Karnak,Hornos de Menfis,14.9,1300,16
+30,Ruta del Nilo,Hornos de Menfis,13.9,1180,15
+31,Trono del Faraón,Hornos de Menfis,17.9,1450,18
+32,Tutankamón,Carnes del Desierto,21.9,1250,20
+33,Ramsés II,Carnes del Desierto,24.9,1450,22
+34,Akenatón,Carnes del Desierto,16.9,980,18
+35,Amenhotep,Carnes del Desierto,22.9,1320,20
+36,Keops,Carnes del Desierto,23.9,1680,25
+37,Kefrén,Carnes del Desierto,22.9,1380,22
+38,Micerino,Carnes del Desierto,20.9,1180,24
+39,Narmer,Carnes del Desierto,29.9,2200,30
+40,Alejandría,Tesoros del Mar Rojo,19.9,950,18
+41,Luxor,Tesoros del Mar Rojo,20.9,920,20
+42,Abidos,Tesoros del Mar Rojo,18.9,890,18
+43,Asuán,Tesoros del Mar Rojo,21.9,980,16
+44,Heliópolis,Tesoros del Mar Rojo,24.9,1050,22
+45,Puerto Real,Tesoros del Mar Rojo,29.9,1700,25
+46,La Corona de Cleopatra,Dulces de la Reina,6.9,650,8
+47,La Máscara de Tutankamón,Dulces de la Reina,7.9,850,10
+48,El Ojo de Horus,Dulces de la Reina,6.5,720,8
+49,Escarabajo Dorado,Dulces de la Reina,5.9,580,5
+50,Tesoro del Nilo,Dulces de la Reina,5.5,420,4
+51,Pirámide de Caramelo,Dulces de la Reina,7.5,890,10
+52,Jardines de Hathor,Dulces de la Reina,5.9,480,3
+53,Trono Imperial,Dulces de la Reina,12.9,1250,12
+54,Amanecer del Nilo,Zumos del Nilo,4.9,650,12
+55,Jardines de Isis,Zumos del Nilo,4.9,650,12
+56,Tesoro de Cleopatra,Zumos del Nilo,5.2,650,12
+57,Oasis Tropical,Zumos del Nilo,4.9,650,12
+58,Batido de Cleopatra,Batidos del Palacio,5.5,650,12
+59,Batido de Anubis,Batidos del Palacio,5.5,650,12
+60,Batido del Faraón,Batidos del Palacio,5.9,650,12
+61,Batido del Nilo,Batidos del Palacio,5.5,650,12
+62,Oasis Verde,Smoothies Sagrados,5.5,650,12
+63,Fuego de Ra,Smoothies Sagrados,5.5,650,12
+64,Sueño de Hathor,Smoothies Sagrados,5.5,650,12
+65,Jardín del Faraón,Smoothies Sagrados,5.5,650,12
+66,Limonada Clásica,Limonadas de Alejandría,4.5,650,12
+67,Limonada Hierbabuena,Limonadas de Alejandría,4.9,650,12
+68,Limonada Frutos Rojos,Limonadas de Alejandría,5.2,650,12
+69,Limonada Tropical,Limonadas de Alejandría,5.2,650,12
+70,Espresso,Cafés de Menfis,1.8,650,12
+71,Doble Espresso,Cafés de Menfis,2.1,650,12
+72,Cortado,Cafés de Menfis,1.9,650,12
+73,Americano,Cafés de Menfis,2.0,650,12
+74,Café con Leche,Cafés de Menfis,2.2,650,12
+75,Cappuccino,Cafés de Menfis,2.5,650,12
+76,Latte Macchiato,Cafés de Menfis,2.8,650,12
+77,Café del Faraón,Cafés de Menfis,3.5,650,12
+78,Café Anubis,Cafés de Menfis,3.5,650,12
+79,Té Moruno,Infusiones del Templo,2.3,650,12
+80,Té Verde,Infusiones del Templo,2.3,650,12
+81,Té Negro,Infusiones del Templo,2.3,650,12
+82,Frutos Rojos,Infusiones del Templo,2.3,650,12
+83,Manzanilla,Infusiones del Templo,2.3,650,12
+84,Menta Poleo,Infusiones del Templo,2.3,650,12
+85,Rooibos,Infusiones del Templo,2.3,650,12
+86,Té de Isis,Infusiones del Templo,2.8,650,12
+87,Té de Hathor,Infusiones del Templo,2.8,650,12
+88,Té del Nilo,Infusiones del Templo,2.8,650,12
+89,Isis,Cócteles de los Dioses,9.5,650,12
+90,Ra,Cócteles de los Dioses,9.5,650,12
+91,Anubis,Cócteles de los Dioses,9.5,650,12
+92,Hathor,Cócteles de los Dioses,9.5,650,12
+93,Osiris,Cócteles de los Dioses,9.5,650,12
+94,Seth,Cócteles de los Dioses,9.5,650,12
+95,Cruzcampo,Cervezas del Imperio,2.5,650,12
+96,Mahou 5 Estrellas,Cervezas del Imperio,2.6,650,12
+97,Mahou Clásica,Cervezas del Imperio,2.5,650,12
+98,Alhambra Especial,Cervezas del Imperio,3.2,650,12
+99,Estrella Galicia,Cervezas del Imperio,2.6,650,12
+100,1906 Reserva Especial,Cervezas del Imperio,3.2,650,12
+101,Heineken,Cervezas del Imperio,2.9,650,12
+102,Corona,Cervezas del Imperio,2.9,650,12
+103,Becks,Cervezas del Imperio,2.9,650,12
+104,Desperados,Cervezas del Imperio,3.2,650,12
+105,Ramón Bilbao Crianza,Vinos de las Dinastías,18.0,650,12
+106,Marqués de Riscal Reserva,Vinos de las Dinastías,21.0,650,12
+107,Protos Roble,Vinos de las Dinastías,16.0,650,12
+108,Alma de Cántaro,Vinos de las Dinastías,14.0,650,12
+109,Verdejo Viña Esmeralda,Vinos de las Dinastías,16.0,650,12
+110,Marqués de Riscal Verdejo,Vinos de las Dinastías,15.0,650,12
+111,Albariño Pazo de San Mauro,Vinos de las Dinastías,18.0,650,12
+112,Protos Verdejo,Vinos de las Dinastías,16.0,650,12
+113,Lambrusco Rosado,Vinos de las Dinastías,14.0,650,12
+114,Mateus Rosé,Vinos de las Dinastías,13.0,650,12
+115,Coca-Cola,Refrescos del Oasis,2.5,650,12
+116,Coca-Cola Zero,Refrescos del Oasis,2.5,650,12
+117,Fanta Naranja,Refrescos del Oasis,2.5,650,12
+118,Fanta Limón,Refrescos del Oasis,2.5,650,12
+119,Sprite,Refrescos del Oasis,2.5,650,12
+120,Nestea,Refrescos del Oasis,2.5,650,12
+121,Aquarius Limón,Refrescos del Oasis,2.5,650,12
+122,Aquarius Naranja,Refrescos del Oasis,2.5,650,12
+123,Kas Limón,Refrescos del Oasis,2.5,650,12
+124,Kas Naranja,Refrescos del Oasis,2.5,650,12
+125,Isis,Chupitos de los Dioses,3.0,650,12
+126,Anubis,Chupitos de los Dioses,3.0,650,12
+127,Ra,Chupitos de los Dioses,3.0,650,12
+128,Hathor,Chupitos de los Dioses,3.0,650,12
+129,Osiris,Chupitos de los Dioses,3.0,650,12
+130,Sobek,Chupitos de los Dioses,3.0,650,12
+131,Menta,Shishas del Imperio,12.0,0,5
+132,Sandía,Shishas del Imperio,12.0,0,5
+133,Mora,Shishas del Imperio,12.0,0,5
+134,Uva,Shishas del Imperio,12.0,0,5
+135,Melocotón,Shishas del Imperio,12.0,0,5
+136,Manzana Doble,Shishas del Imperio,12.0,0,5
+137,Limón Menta,Shishas del Imperio,12.0,0,5
+138,Love 66,Shishas del Imperio,14.0,0,5
+139,Blue Mist,Shishas del Imperio,14.0,0,5
+140,Lady Killer,Shishas del Imperio,14.0,0,5
+141,Gummy Bear,Shishas del Imperio,14.0,0,5
+142,Blackberry Mint,Shishas del Imperio,14.0,0,5
+143,Dubai Night,Shishas del Imperio,14.0,0,5
+144,Ice Lime,Shishas del Imperio,14.0,0,5
+145,Valle Oculto,Shishas del Imperio,15.9,0,5
+146,Pirámide Negra,Shishas del Imperio,15.9,0,5
+147,Oasis Perdido,Shishas del Imperio,15.9,0,5
+148,Santuario de Amón,Shishas del Imperio,15.9,0,5
+149,Alejandría Nocturna,Shishas del Imperio,15.9,0,5
+150,Guardiana del Desierto,Shishas del Imperio,15.9,0,5
+151,Cámara de Keops,Shishas del Imperio,15.9,0,5
+152,Desierto Eterno,Shishas del Imperio,15.9,0,5
+153,Kefera Royal,Shishas del Imperio,19.9,0,5
+154,Trono de Cleopatra,Shishas del Imperio,18.9,0,5
+155,Tesoro de Tutankamón,Shishas del Imperio,18.9,0,5
